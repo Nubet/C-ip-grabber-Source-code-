@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>IP_GRABBER</RootNamespace>
+    <RootNamespace>SendMailViaGmail</RootNamespace>
   </PropertyGroup>
 
 </Project>
